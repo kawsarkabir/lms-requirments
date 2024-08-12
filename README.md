@@ -64,7 +64,7 @@ The LMS is a comprehensive platform designed to provide educational institutions
 
 ### **1.1 Landing Page**
 
-- **Purpose:** To provide a captivating introduction to ALFABIC LMS and encourage visitors to explore further.
+- **Purpose:** To provide a captivating introduction to LMS and encourage visitors to explore further.
 - **Features:**
   - Key CTAs (Call to Actions) like "Join Now," "Learn More," and "Contact Us."
   - Responsive design to ensure compatibility across devices.
@@ -72,14 +72,14 @@ The LMS is a comprehensive platform designed to provide educational institutions
 
 ### **1.2 About Page**
 
-- **Purpose:** To share the mission, vision, and team behind ALFABIC LMS.
+- **Purpose:** To share the mission, vision, and team behind LMS.
 - **Features:**
   - Structured content reflecting the organization’s values.
   - High-quality images and videos to enhance engagement.
 
 ### **1.3 Contact Page**
 
-- **Purpose:** To provide users with multiple ways to get in touch with the ALFABIC team.
+- **Purpose:** To provide users with multiple ways to get in touch with the team.
 - **Features:**
   - Contact form with validation and spam protection.
   - Integration with Google Maps for location display.
